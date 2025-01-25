@@ -1,2 +1,2 @@
 STAR ⭐ FIRE 🔥 
-![starfire](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.talkie-ai.com%2Fimage_gen%2F7cae215b-8a66-4423-a311-393da9e8f6b5-1-5-400x0.webp&tbnid=-NfneRzu9L32_M&vet=10CBAQxiAoAmoYChMI6IKo9sSRiwMVAAAAAB0AAAAAEJIB..i&imgrefurl=https%3A%2F%2Fwww.talkie-ai.com%2Fchat%2Fprofile%2Fstar-fire--63944733405280&docid=V1iTUneSXAjukM&w=400&h=725&itg=1&q=star%20fire.&client=tablet-unknown&ved=0CBAQxiAoAmoYChMI6IKo9sSRiwMVAAAAAB0AAAAAEJIB)
+![starfire](https://images.app.goo.gl/bXyuFZ4QV3TAPa127)
