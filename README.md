@@ -1,2 +1,2 @@
-STAR ⭐ FIRE 🔥
-![starfire](https://images.app.goo.gl/AvogvbvBiVvoxtLn7)
+STAR ⭐ FIRE 🔥 
+!(https://images.app.goo.gl/AvogvbvBiVvoxtLn7)
