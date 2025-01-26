@@ -39,7 +39,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("Connecting wa bot 🧬...");
+console.log("Connecting STAR ⭐ FIRE 🔥 🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
   let up = `STAR ⭐  FIRE 🔥 connected successful ✅\n\nPREFIX: ${prefix}`;
 
-  conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
+  conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/np12u1.jpeg` }, caption: up })
 
   }
 })
