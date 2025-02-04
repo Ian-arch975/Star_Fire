@@ -1,0 +1,31 @@
+{
+  "name": "STAR⭐ FIRE🔥",
+  "description": "Javascript WhatsApp bot made by Ian Joel",
+  "logo": "https://files.catbox.moe/h2ydge.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "STAR⭐ FIRE🔥 a simple lightweight whatsaapbot made by IanJoel. Star and fork repo,deploy and then enjoy,", 
+      "required": true
+    },
+    
+    "ALIVE_MSG": {
+      "description": "STAR⭐ FIRE🔥 is alive",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+    }
