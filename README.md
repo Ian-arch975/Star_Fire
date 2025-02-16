@@ -1,5 +1,5 @@
 # STAR ⭐ FIRE 🔥 WhatsApp Bot
-![starfire](https://files.catbox.moe/np12u1.jpeg)
+![starfire](https://imgur.com/a/zPNmEzb)
 >Star⭐Fire🔥is a powerful and versatile WhatsApp bot that can be easily connected to any WhatsApp account via a unique pairing code. Built in JavaScript, this bot requires **no complex deployment process**. Users can get started with a single connection step, making it ideal for beginners and seasoned bot users alike.
 ## Features
 - **Simple Connection**: Connect with your WhatsApp account using just a pairing code—no lengthy setup required.
